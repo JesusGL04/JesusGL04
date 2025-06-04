@@ -20,6 +20,8 @@
 ### 🛡️ Seguridad y Pentesting
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-2C3539?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netdiscover-778899?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Enum4linux-005f73?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-1E90FF?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Searchsploit-8B0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vulscan-FF0000?style=for-the-badge&logo=archlinux&logoColor=white"/>
@@ -32,14 +34,6 @@
   <img src="https://img.shields.io/badge/SecLists-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hydra-006400?style=for-the-badge&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/John%20The%20Ripper-4B0082?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSFVenom-8B0000?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BurpSuite-FF5C00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wappalyzer-4000D9?style=for-the-badge&logo=wappalyzer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WPScan-343434?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ZAPProxy-0D47A1?style=for-the-badge&logo=OWASP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CIS%20Benchmarks-1E90FF?style=for-the-badge&logo=security&logoColor=white"/>
 </p>
 
 ### 🌐 Redes y Monitorización
@@ -54,6 +48,21 @@
   <img src="https://img.shields.io/badge/VMware-0071C5?style=for-the-badge&logo=vmware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+### 🕵️ OSINT
+<p align="left">
+  <img src="https://img.shields.io/badge/Shodan-FF2B2B?style=for-the-badge&logo=shodan&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yandex-FFCC00?style=for-the-badge&logo=yandex&logoColor=black"/>
+</p>
+
+### 💻 Lenguajes y Sistemas
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---

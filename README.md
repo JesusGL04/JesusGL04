@@ -53,6 +53,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Shodan-FF2B2B?style=for-the-badge&logo=shodan&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yandex-FFCC00?style=for-the-badge&logo=yandex&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Trace_Labs-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ### 💻 Lenguajes de programación

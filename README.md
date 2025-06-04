@@ -1,59 +1,67 @@
-<h1 align="center">👋 ¡Hola! Soy Jesús González</h1>
+<!-- Encabezado animado -->
+<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&center=true&vCenter=true&lines=👋+Hola%2C+soy+Jesús+González;💻+Apasionado+por+la+ciberseguridad+y+programación;🚀+Siempre+buscando+aprender+y+superarme&font=Fira+Code&size=20&pause=1000" align="center"/>
 
-<p align="center">
-  🧑‍💻 Apasionado por la <strong>ciberseguridad</strong>, <strong>programación</strong> y <strong>redes</strong> <br>
-  🚀 Siempre en busca de nuevos retos técnicos y oportunidades de aprendizaje
+---
+
+## 🧠 Sobre mí
+
+🎓 Técnico especializado en redes, virtualización y seguridad informática  
+🔍 Me apasiona la **ciberseguridad**, la **programación** y la resolución de retos técnicos  
+🧰 Trabajo con herramientas como `Nmap`, `Metasploit`, `Searchsploit`, `pfSense`, `Wazuh`, `VMware`, entre muchas otras  
+🧩 Creativo, curioso, autodidacta y siempre buscando el siguiente desafío
+
+---
+
+## 🚀 Tecnologías que manejo
+
+### 🛡️ Seguridad y Pentesting
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-2C3539?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-1E90FF?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Searchsploit-8B0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vulscan-FF0000?style=for-the-badge&logo=archlinux&logoColor=white"/>
+</p>
+
+### 🌐 Redes y Monitorización
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-2E2E2E?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PfSense-5865F2?style=for-the-badge&logo=pfsense&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Suricata-DD4B39?style=for-the-badge&logo=suricata&logoColor=white"/>
+</p>
+
+### 💻 Virtualización y Sistemas
+<p align="left">
+  <img src="https://img.shields.io/badge/VMware-0071C5?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VMware-0071C5?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
-  <img src="https://img.shields.io/badge/PfSense-8892BF?style=for-the-badge&logo=pfSense&logoColor=white" alt="pfSense"/>
-  <img src="https://img.shields.io/badge/Wazuh-2E2E2E?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
-  <img src="https://img.shields.io/badge/Suricata-DD4B39?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnubash&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Metasploit-1E90FF?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-  <img src="https://img.shields.io/badge/Searchsploit-800000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" alt="Searchsploit"/>
-  <img src="https://img.shields.io/badge/Vulscan-8B0000?style=for-the-badge&logo=archlinux&logoColor=white" alt="Vulscan"/>
-</p>
-
----
-
-## 🌟 Proyectos Destacados
+## 📌 Proyectos Destacados
 
 | Proyecto | Descripción |
 |---------|-------------|
-| 🔒 [**Red virtual monitorizada**](https://github.com/JesusGL04/Red_virtual_monitorizada) | Simulación de una red segura usando Wazuh, pfSense y Suricata. |
-| 🔍 [**Análisis OSINT**](https://github.com/JesusGL04/Analisis_OSINT) | Investigación de inteligencia abierta sobre una empresa real. |
-| 🧪 [**proyecto_AAA**](https://github.com/JesusGL04/proyecto_AAA) | Proyecto en HTML para diseño y pruebas web. |
+| 🔒 [**Red virtual monitorizada**](https://github.com/JesusGL04/Red_virtual_monitorizada) | Simulación real de una red segura con herramientas como Wazuh, pfSense y Suricata. |
+| 🕵️‍♂️ [**Análisis OSINT**](https://github.com/JesusGL04/Analisis_OSINT) | Investigación de inteligencia de fuentes abiertas aplicadas a un caso real. |
+| 💡 [**proyecto_AAA**](https://github.com/JesusGL04/proyecto_AAA) | Proyecto en HTML con enfoque en estructura, diseño y presentación. |
 
 ---
 
-## 👨‍💻 Sobre mí
+## 📊 Stats y actividad
 
-- 💡 Disfruto aprender haciendo y compartir lo aprendido.
-- ⚙️ Me estoy especializando en **virtualización**, **seguridad ofensiva/defensiva** y **automatización de redes**.
-- 🔍 Familiarizado con herramientas como `Nmap`, `Metasploit`, `Searchsploit`, `Vulscan` y `Wazuh`.
-- 💻 Experiencia con entornos Linux, servidores virtuales y configuraciones firewall.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusGL04&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGL04&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
 
 ---
 
 ## 📬 Contacto
 
 <p align="center">
-📧 <strong>jesusgl0304@gmail.com</strong><br>
-💼 <a href="https://www.linkedin.com/in/jesus-gonzalez-lopez-1251482b9/" target="_blank">LinkedIn</a>  
-</p>
-
-<p align="center">
-  📩 ¿Te interesa alguno de mis proyectos? <strong>¡Contáctame!</strong>
+  📧 <strong>jesusgl0304@gmail.com</strong><br>
+  💼 <a href="https://www.linkedin.com/in/jesus-gonzalez-lopez-1251482b9/" target="_blank">LinkedIn</a>  
 </p>
 
 ---

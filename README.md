@@ -6,9 +6,9 @@
 ## 🧠 Sobre mí
 
 🎓 Técnico especializado en redes, virtualización y seguridad informática  
-🔍 Me apasiona la **ciberseguridad**, la **programación** y la resolución de retos técnicos  
-🧰 Trabajo con herramientas como `Nmap`, `Metasploit`, `Searchsploit`, `pfSense`, `Wazuh`, `VMware`, entre muchas otras  
-🧩 Creativo, curioso, autodidacta y siempre buscando el siguiente desafío
+🔐 Apasionado por la **ciberseguridad ofensiva y defensiva**, y el desarrollo técnico de proyectos prácticos  
+📚 En constante estudio y formación, actualmente preparándome para **certificaciones como Cisco** (CCNA) y en el futuro **eJPT (Junior Penetration Tester)**  
+🚀 Siempre motivado por el aprendizaje autodidacta, los entornos reales y el trabajo en equipo
 
 ---
 
@@ -38,22 +38,22 @@
 
 ---
 
-## 📌 Proyectos Destacados
+## 🌟 Proyectos Destacados
 
 | Proyecto | Descripción |
 |---------|-------------|
 | 🔒 [**Red virtual monitorizada**](https://github.com/JesusGL04/Red_virtual_monitorizada) | Simulación real de una red segura con herramientas como Wazuh, pfSense y Suricata. |
-| 🕵️‍♂️ [**Análisis OSINT**](https://github.com/JesusGL04/Analisis_OSINT) | Investigación de inteligencia de fuentes abiertas aplicadas a un caso real. |
+| 🕵️‍♂️ [**Análisis OSINT**](https://github.com/JesusGL04/Analisis_OSINT) | Investigación de inteligencia de fuentes abiertas aplicada a un caso real. |
 | 💡 [**proyecto_AAA**](https://github.com/JesusGL04/proyecto_AAA) | Proyecto en HTML con enfoque en estructura, diseño y presentación. |
 
 ---
 
-## 📊 Stats y actividad
+## 🎁 ¿Algo extra para reclutadores?
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesusGL04&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGL04&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
+✅ Puedo **replicar entornos de red empresariales** en entornos virtuales  
+✅ Sé cómo **detectar vulnerabilidades y monitorizar redes** usando herramientas reales  
+✅ Tengo **iniciativa, constancia y documentación** detallada de mis proyectos  
+✅ Estoy siempre aprendiendo, y mi próxima meta es **convertirme en Pentester Certificado (eJPT)**
 
 ---
 
@@ -62,6 +62,10 @@
 <p align="center">
   📧 <strong>jesusgl0304@gmail.com</strong><br>
   💼 <a href="https://www.linkedin.com/in/jesus-gonzalez-lopez-1251482b9/" target="_blank">LinkedIn</a>  
+</p>
+
+<p align="center">
+  📩 ¿Te interesa alguno de mis proyectos o crees que encajo en tu equipo? <strong>¡Contáctame!</strong>
 </p>
 
 ---

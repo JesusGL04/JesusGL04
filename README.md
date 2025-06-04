@@ -48,7 +48,7 @@
 ## 📬 Contacto
 
 <p align="center">
-📧 <strong>jesusgonzalez@email.com</strong> (sustituye con tu email real) <br>
+📧 <strong>jesusgl0304@gmail.com</strong><br>
 💼 <a href="https://www.linkedin.com/in/jesus-gonzalez-lopez-1251482b9/" target="_blank">LinkedIn</a>  
 </p>
 

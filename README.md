@@ -5,9 +5,12 @@
 
 ## 🧠 Sobre mí
 
-🎓 Técnico especializado en redes, virtualización y seguridad informática  <br>
-🔐 Apasionado por la **ciberseguridad ofensiva y defensiva**, y el desarrollo técnico de proyectos prácticos  <br>
-📚 En constante estudio y formación, actualmente preparándome para **certificaciones como Cisco** (CCNA) y en el futuro **eJPT (Junior Penetration Tester)**  <br>
+🎓 Técnico especializado en redes, virtualización y seguridad informática 
+
+🔐 Apasionado por la **ciberseguridad ofensiva y defensiva**, y el desarrollo técnico de proyectos prácticos 
+
+📚 En constante estudio y formación, actualmente preparándome para **certificaciones como Cisco** (CCNA) y en el futuro **eJPT (Junior Penetration Tester)**
+
 🚀 Siempre motivado por el aprendizaje autodidacta, los entornos reales y el trabajo en equipo
 
 ---
@@ -42,17 +45,22 @@
 
 | Proyecto | Descripción |
 |---------|-------------|
-| 🔒 [**Red virtual monitorizada**](https://github.com/JesusGL04/Red_virtual_monitorizada) | Simulación real de una red segura con herramientas como Wazuh, pfSense y Suricata. | <br>
-| 🕵️‍♂️ [**Análisis OSINT**](https://github.com/JesusGL04/Analisis_OSINT) | Investigación de inteligencia de fuentes abiertas aplicada a un caso real. | <br>
-| 💡 [**proyecto_AAA**](https://github.com/JesusGL04/proyecto_AAA) | Proyecto en HTML con enfoque en estructura, diseño y presentación. | <br>
+| 🔒 [**Red virtual monitorizada**](https://github.com/JesusGL04/Red_virtual_monitorizada) | Simulación real de una red segura con herramientas como Wazuh, pfSense y Suricata. | 
+
+| 🕵️‍♂️ [**Análisis OSINT**](https://github.com/JesusGL04/Analisis_OSINT) | Investigación de inteligencia de fuentes abiertas aplicada a un caso real. | 
+
+| 💡 [**proyecto_AAA**](https://github.com/JesusGL04/proyecto_AAA) | Proyecto en HTML con enfoque en estructura, diseño y presentación. | 
 
 ---
 
 ## 🎁 ¿Algo extra para reclutadores?
 
 ✅ Puedo **replicar entornos de red empresariales** en entornos virtuales  
+
 ✅ Sé cómo **detectar vulnerabilidades y monitorizar redes** usando herramientas reales  
+
 ✅ Tengo **iniciativa, constancia y documentación** detallada de mis proyectos  
+
 ✅ Estoy siempre aprendiendo, y mi próxima meta es **convertirme en Pentester Certificado (eJPT)**
 
 ---

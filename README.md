@@ -23,6 +23,23 @@
   <img src="https://img.shields.io/badge/Metasploit-1E90FF?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Searchsploit-8B0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vulscan-FF0000?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-004880?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackTricks-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CXSecurity-4B0082?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Exploit--DB-FFA500?style=for-the-badge&logo=exploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RevShells-282C34?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ettercap-228B22?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SecLists-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-006400?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-4B0082?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MSFVenom-8B0000?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BurpSuite-FF5C00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wappalyzer-4000D9?style=for-the-badge&logo=wappalyzer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPScan-343434?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ZAPProxy-0D47A1?style=for-the-badge&logo=OWASP&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CIS%20Benchmarks-1E90FF?style=for-the-badge&logo=security&logoColor=white"/>
 </p>
 
 ### 🌐 Redes y Monitorización
@@ -76,7 +93,7 @@
 
 ---
 
-## 👾 ¡Pronto volveremos con mas!
+## 👾 ¡Pronto volveremos con más!
 <br>
 <p align="center">
   <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Pacman animado" width="300"/>

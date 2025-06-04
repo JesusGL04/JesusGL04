@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&pause=100&color=FF0000,00FF00,0000FF,FF00FF,00FFFF&repeat=true&center=true&lines=Hola+Soy+Jesús+👋" alt="Hola Soy Jesús animado" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=100&color=FF0000,00FF00,0000FF,FF00FF,00FFFF&repeat=true&center=true&lines=Hola+Soy+Jesús+👋" alt="Hola Soy Jesús animado" />
 
 ---
 

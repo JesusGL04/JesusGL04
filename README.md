@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&center=true&vCenter=true&lines=👋+Hola%2C+soy+Jesús+González;💻+Apasionado+por+la+ciberseguridad+y+programación;🚀+Siempre+buscando+aprender+y+superarme&font=Fira+Code&size=16&pause=1000" align="center"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Jesús+González!;Apasionado+por+la+ciberseguridad!&font=Fira+Code&size=24&duration=3000&color=FF6F61,58A6FF,4CAF50&center=true" alt="Animación de texto" />
 
 ---
 

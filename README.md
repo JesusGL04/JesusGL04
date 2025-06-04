@@ -70,9 +70,9 @@
 
 ---
 
-## 👾 Solo un toque divertido...
+## 👾 Un toque divertido...
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Pacman animado" width="300"/>
+  <img src="https://github.com/JesusGL04/JesusGL04/blob/output/github-contribution-grid-snake.svg" alt="snake eating commits" />
 </p>
 

@@ -77,7 +77,7 @@
 ---
 
 ## 👾 ¡Pronto volveremos con mas!
-
+<br>
 <p align="center">
   <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Pacman animado" width="300"/>
 </p>

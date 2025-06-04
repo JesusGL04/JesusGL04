@@ -76,8 +76,3 @@
   <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Pacman animado" width="300"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>

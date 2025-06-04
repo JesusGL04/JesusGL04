@@ -46,9 +46,7 @@
 | Proyecto | Descripción |
 |---------|-------------|
 | 🔒 [**Red virtual monitorizada**](https://github.com/JesusGL04/Red_virtual_monitorizada) | Simulación real de una red segura con herramientas como Wazuh, pfSense y Suricata. | 
-
 | 🕵️‍♂️ [**Análisis OSINT**](https://github.com/JesusGL04/Analisis_OSINT) | Investigación de inteligencia de fuentes abiertas aplicada a un caso real. | 
-
 | 💡 [**proyecto_AAA**](https://github.com/JesusGL04/proyecto_AAA) | Proyecto en HTML con enfoque en estructura, diseño y presentación. | 
 
 ---

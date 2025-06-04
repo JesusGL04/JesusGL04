@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+soy+Jesús+González!;Apasionado+por+la+ciberseguridad!&font=Fira+Code&size=24&duration=3000&color=FF6F61,58A6FF,4CAF50&center=true" alt="Animación de texto" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=200&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,9400D3&repeat=true&center=true&lines=¡Hola,+soy+Jesús+González!" alt="Texto animado con colores llamativos" />
 
 ---
 

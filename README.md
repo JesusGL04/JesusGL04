@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Yandex-FFCC00?style=for-the-badge&logo=yandex&logoColor=black"/>
 </p>
 
-### 💻 Lenguajes
+### 💻 Lenguajes de programación
 <p align="left">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>

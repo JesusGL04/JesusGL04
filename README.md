@@ -70,7 +70,7 @@
 
 ---
 
-## 👾 ¡Pronto vendremos con mas!
+## 👾 ¡Pronto volveremos con mas!
 
 <p align="center">
   <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Pacman animado" width="300"/>

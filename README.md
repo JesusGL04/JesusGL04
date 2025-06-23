@@ -1,111 +1,125 @@
-<!-- Encabezado animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=F97316&center=true&vCenter=true&width=500&height=50&lines=Hola%2C+soy+Jes%C3%BAs+%F0%9F%91%8B;Apasionado+por+la+ciberseguridad;Siempre+listo+para+aprender+y+crear" alt="Typing SVG" />
-</p>
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=100&color=FF0000,00FF00,0000FF,FF00FF,00FFFF&repeat=true&center=true&lines=Hola+Soy+Jesús+👋" alt="Hola Soy Jesús animado" />
 
 ---
 
 ## 🧠 Sobre mí
 
-🎓 Técnico en redes, virtualización y seguridad informática  
-🔐 Apasionado por la **ciberseguridad ofensiva y defensiva**  
-📚 Actualmente preparándome para el **CCNA** y en el futuro el **eJPT**  
-🧠 Me encanta el **autoaprendizaje**, los entornos reales y colaborar en equipo
+🎓 Técnico especializado en redes, virtualización y seguridad informática 
+
+🔐 Apasionado por la **ciberseguridad ofensiva y defensiva**, y el desarrollo técnico de proyectos prácticos 
+
+📚 En constante estudio y formación, actualmente preparándome para **certificaciones como Cisco** (CCNA) y en el futuro **eJPT (Junior Penetration Tester)**
+
+🚀 Siempre motivado por el aprendizaje autodidacta, los entornos reales y el trabajo en equipo
 
 ---
 
-## 🛠️ Stack Técnico
+## 🚀 Tecnologías que manejo
 
-### 🛡️ Pentesting y Seguridad
-
-![Nmap](https://img.shields.io/badge/Nmap-101820?style=flat-square&logo=gnubash&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1E90FF?style=flat-square&logo=metasploit&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-00FF7F?style=flat-square&logo=archlinux&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_The_Ripper-9932CC?style=flat-square&logo=kalilinux&logoColor=white)
-![Searchsploit](https://img.shields.io/badge/Searchsploit-DC143C?style=flat-square&logo=gnuprivacyguard&logoColor=white)
-
-> También uso herramientas como **Enum4linux**, **Nessus**, **HackTricks**, **Ettercap**, **SecLists** y más.
-
----
+### 🛡️ Seguridad y Pentesting
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-2C3539?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netdiscover-778899?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Enum4linux-005f73?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-1E90FF?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Searchsploit-8B0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vulscan-FF0000?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-004880?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackTricks-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CXSecurity-4B0082?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Exploit--DB-FFA500?style=for-the-badge&logo=exploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RevShells-282C34?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ettercap-228B22?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SecLists-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-006400?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-4B0082?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
 
 ### 🌐 Redes y Monitorización
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-2E2E2E?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PfSense-5865F2?style=for-the-badge&logo=pfsense&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Suricata-DD4B39?style=for-the-badge&logo=suricata&logoColor=white"/>
+</p>
 
-![Wazuh](https://img.shields.io/badge/Wazuh-0A0A0A?style=flat-square&logo=wazuh&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-1F4E79?style=flat-square&logo=pfsense&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-DD4B39?style=flat-square&logo=suricata&logoColor=white)
-
----
-
-### 🧱 Virtualización y Sistemas
-
-![VMware](https://img.shields.io/badge/VMware-0071C5?style=flat-square&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-
----
+### 💻 Virtualización y Sistemas
+<p align="left">
+  <img src="https://img.shields.io/badge/VMware-0071C5?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+</p>
 
 ### 🕵️ OSINT
+<p align="left">
+  <img src="https://img.shields.io/badge/Shodan-FF2B2B?style=for-the-badge&logo=shodan&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yandex-FFCC00?style=for-the-badge&logo=yandex&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Trace_Labs-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 
-![Shodan](https://img.shields.io/badge/Shodan-FF2B2B?style=flat-square&logo=shodan&logoColor=white)
-![Yandex](https://img.shields.io/badge/Yandex-FFCC00?style=flat-square&logo=yandex&logoColor=black)
-![Trace Labs](https://img.shields.io/badge/Trace_Labs-0078D7?style=flat-square&logo=windows&logoColor=white)
-
----
-
-### 💻 Lenguajes y Scripting
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
----
+### 💻 Lenguajes de programación
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
 ### 🖥️ Sistemas Operativos
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Win_10-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Win_11-0A84FF?style=flat-square&logo=windows11&logoColor=white)
-![Server 2025](https://img.shields.io/badge/Server_2025-0078D6?style=flat-square&logo=windows&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_11-0A84FF?style=for-the-badge&logo=windows11&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_Server_2025-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-| 🔍 Proyecto | 📌 Descripción |
-|------------|----------------|
-| [**Red virtual monitorizada**](https://github.com/JesusGL04/Red_virtual_monitorizada) | Red segura simulada con **Wazuh**, **pfSense** y **Suricata** |
-| [**Análisis OSINT**](https://github.com/JesusGL04/Analisis_OSINT) | Investigación real de inteligencia de fuentes abiertas |
-| [**proyecto_AAA**](https://github.com/JesusGL04/proyecto_AAA) | Proyecto web en HTML con enfoque en presentación visual |
+| Proyecto | Descripción |
+|---------|-------------|
+| 🔒 [**Red virtual monitorizada**](https://github.com/JesusGL04/Red_virtual_monitorizada) | Simulación real de una red segura con herramientas como Wazuh, pfSense y Suricata. | 
+| 🕵️‍♂️ [**Análisis OSINT**](https://github.com/JesusGL04/Analisis_OSINT) | Investigación de inteligencia de fuentes abiertas aplicada a un caso real. | 
+| 💡 [**proyecto_AAA**](https://github.com/JesusGL04/proyecto_AAA) | Proyecto en HTML con enfoque en estructura, diseño y presentación. | 
 
 ---
 
-## 🎯 ¿Por qué yo?
+## 🎁 ¿Algo extra para reclutadores?
 
-✅ Capacidad para simular entornos reales  
-✅ Experiencia con herramientas de seguridad profesional  
-✅ Metodología documentada y enfoque en buenas prácticas  
-✅ En formación constante con visión de futuro (eJPT)
+✅ Puedo **replicar entornos de red empresariales** en entornos virtuales  
+
+✅ Sé cómo **detectar vulnerabilidades y monitorizar redes** usando herramientas reales  
+
+✅ Tengo **iniciativa, constancia y documentación** detallada de mis proyectos  
+
+✅ Estoy siempre aprendiendo, y mi próxima meta es **convertirme en Pentester Certificado (eJPT)**
 
 ---
 
-## 📬 ¡Hablemos!
+## 📬 Contacto
 
 <p align="center">
   📧 <strong>jesusgl0304@gmail.com</strong><br>
   💼 <a href="https://www.linkedin.com/in/jesus-gonzalez-lopez-1251482b9/" target="_blank">LinkedIn</a>  
 </p>
 
+<p align="center">
+  📩 ¿Te interesa alguno de mis proyectos o crees que encajo en tu equipo? <strong>¡Contáctame!</strong>
+</p>
+
 ---
 
-## 👾 ¡Volveré con más!
-
+## 👾 ¡Pronto volveremos con más!
+<br>
 <p align="center">
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="200" alt="Pacman animado" />
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" alt="Pacman animado" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
